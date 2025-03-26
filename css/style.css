@@ -117,6 +117,18 @@ body {
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
+<!-- added 3/25/2025 -->
+.open-book .chapter-title article + p:first-of-type {
+  text-indent: 0;
+}
+<!-- added 3/25/2025 -->
+.open-book .chapter-title article + p:first-of-type:first-letter {
+  float: left;
+  font: 700 3em/0.65 'Playfair Display', sans-serif;
+  padding: 0.15em 0.05em 0 0;
+  text-transform: uppercase;
+}
+
 .open-book article > ul,
 .open-book article > ol {
   padding-left: 3em;  /* 3em; */
@@ -137,20 +149,6 @@ body {
   color: rgba(0,0,0,0.5);
   text-decoration: none;
 }
-// .open-book sup {
-//    color: #cc0000;  /* strong red */
-//    font-family: 'Rock Salt', cursive;
-//    left: 0;
-//    margin-top: -1em!important;
-//    max-width: 100%!important;
-//    position: absolute;
-//    text-align: center;
-//    width: 100%;
-//}
-<!--
-  vertical-align: super;
-  font-size: smaller;
--->
 
 .open-book mark {
   background: linear-gradient(to bottom, rgba(222,255,0,1) 0%,rgba(222,255,0,0.5) 60%,rgba(222,255,0,1) 100%);
