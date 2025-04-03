@@ -4,6 +4,8 @@
 <h6>Brian Bauska (2025)</h6>
 <h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
 and Threat of Authoritarianism (cadaver animatum)</h2>
+<p>In the early 1980's under Ronald Reagan news media was deregulated killing the 4th estate
+and slowly killing America with 10,000 cuts.</p>
 <p>Education is the point at which we decide whether we love the world enough to assume
 responsibility for it and by the same token save it from ruin which, except for renewal, 
 except for the coming of the new and young, would be inevitable. And education, too, is 
