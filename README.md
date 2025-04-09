@@ -5754,9 +5754,8 @@ Disposability? (New York: Palgrave Macmillan, 2009).</li>
 <li>Frank Rich, “The Axis of the Obsessed and the Deranged,"72re New York Times (February 28,
 2010), p. WK10.</li>
 <li>Ibid.</li>
-<li>Cited in Kathleen Hennessy, “Sarah Palin to Tea Party Convention: ‘This is about the people,”
-Los Angeles Time: (February 7, 2010), http://articles.latimes.com/2010/feb/07/nation/la-na­
-tea-party7-2010feb07.</li>
+<li>Cited in Kathleen Hennessy, “Sarah Palin to Tea Party Convention: This is about the people,”
+Los Angeles Time: (February 7, 2010), http://articles.latimes.com/2010/feb/07/nation/la-na­tea-party7-2010feb07.</li>
 <li>David Price, “How the CIA Is Welcoming Itself Back onto American University Campuses,"
 CounterPunch 17:2 (January 16-31, 2010), p. 1.</li>
 <li>Richard Bernstein, Tlredbufe ofE'v¢Z' The Corruption of Politics and Rel@on since 9/11 (Malden,
@@ -5772,9 +5771,10 @@ http://www.guardian.co.uk/world/blog/2009/sep/25/sonic-cannon-g20-pittsburgh. Se
 Ian Urbina, “Protesters Are Met by Tear Gas at C-20,” Tlre New York Times (September 25,
 2009), p. A1O.</li>
 <li>See, for example, Rinaldo Brutoco and Madeleine Austin, “‘Spellcasters': The Hunt for the ‘Buy
-Button' in Your Brain," TrutbOut (January 10, 2010), http://wwwtrutl'1out.org/spel1casters-tl1e­
-hunt-buy-button-your-brain56278?print.</li>
-<li>Goran Therborn, “The Killing Fields of Inequality,” Open Dernocmty (April 6, 2009),
+Button' in Your Brain," TrutbOut (January 10, 2010),
+https://truthout.org/articles/advertisers-and-politicians-hunt-for-the-buybutton-in-your-brain/
+http://www.truthout.org/spel1casters-ti1e­hunt-buy-button-your-brain56278?print.</li>
+<li>Goran Therborn, “The Killing Fields of Inequality,” Open Democracy (April 6, 2009),
 http://wwvmopendemocracynet/article/the-killing-fields-of-inequality</li>
 <li>Hannah Arendt, “No Longer and Not Yet," in Rg‘Iection.f on Litemture and Culture, ed. Susannah
 Yong-ah Gottlieb (Stanford: Stanford University Press, 2007), p. 121.</li>
