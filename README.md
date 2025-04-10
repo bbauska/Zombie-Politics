@@ -1059,15 +1059,15 @@ everyday life.
  Philosophy: New Life for the Undeed (Chicago: Open Court, 2010).</li>
 <li>Arun Gupta, “Party of No: How Republicans and the Right Have Tried to Thwart All Social
  Progress," Truthoutorg (May 21, 2010), wwwaltemet.org/news/ 146965 .</li>
-<li>Jonathan Cooper, “We’re All Arizonians Now," Hujington Post (May 15, 2010),
- http://wwvmhuF£ingtonpost.com/2010/OS/15/sarah-palin-were-all-ariz_n_S77671.html.</li>
+<li>Jonathan Cooper, “We’re All Arizonians Now," Huffington Post (May 15, 2010),
+ http://www.huffingtonpost.com/2010/OS/15/sarah-palin-were-all-ariz_n_S77671.html.</li>
 <li>See the excellent commentary on this issue by Frank Rich, “The Rage ls Not 
  About Health Care,” The New York Times (March 28, 2010), p. WK10. See also Justine 
  Sharrock, “The Oath Keepers: The Militant and Armed Side of the Tea Party Movement,
  ”AlterNet (March 6, 2010), http://www.alternet.org/ story/ 14S769; and Mark Potok, 
  “Rage on the Right: The Year in Hate and Extremism," Southern Poverty Law Center 
  Intelligence Report 137 (Spring 2010), 
- http://wwwsplcenter.org/get-informed/intelligence-report/browse-all-issues/2010/spring/rage­
+ http://www.splcenter.org/get-informed/intelligence-report/browse-all-issues/2010/spring/rage­
  on-the-right.</li>
 <li>Paul Krugman, “Going to Extreme," The New York Times (May 16, 2010), p. A23.</li>
 <li>James Traub, “The Way We Live Now: Weimar Whiners," The New York Times Magazine
@@ -1092,7 +1092,7 @@ everyday life.
  o/`Book.¢ (November-December 1995), p. 15.</li>
 <li>Woli n, Democracy Incorporated</li>
 <li>Along similar theoretical lines, see Stephen Lendman, “A Look Back and Ahead: Police State
- in America,” CounterPunch (December 17, 2007), http://wvvw.counterpunch.org/led­
+ in America,” CounterPunch (December 17, 2007), http://www.counterpunch.org/led­
  man12172007.html. For an excellent analysis that points to the creeping power of the nation­al
  security state on American universities, see David Price, “Silent Coup: How the CIA Is
  Welcoming Itself Back onto American University Campuses,” CounterPunch 17:3 (January
@@ -1100,7 +1100,7 @@ everyday life.
 <li>David Harvey; “Organizing for the Anti-Capita1istTransition," Monthly Review (December 15,
  2009), http://davidharvey.org/ 2009/ 12/ organizing-for-the-anti-capitalist-transition/ _</li>
 <li>Chris Hedges, “Democracy in America Is a Useful Fiction," TruthDig (January 24, 2010),
- http://wwvu truthdig.com/report/item/democracy_in_america_is_a_useful_fiction_20100124/Pln</li>
+ http://www.truthdig.com/report/item/democracy_in_america_is_a_useful_fiction_20100124/Pln</li>
 <li>See Janine R. Wedel, Shadow Elite: How the World if New Power Broken Undermine Democracy,
  Gofvernment, and the Free Market (New York: Basic Books, 2010).</li>
 <li>Zygmunt Bauman, Liquid Times: Living in an Age of Uncertainty (London: Polity Press, 2007),
@@ -1119,50 +1119,50 @@ everyday life.
  Palgrave, 2009). For a series of brilliant commentaries on youth in America, see the work ofTolu
  Olomnda in The Black Commentator, Truthout, and other online journals.
 <li>Evelyn Pringle, “Why Are We Drugging Our Kids?," Truthout (December 14, 2009),
- http://wwv\talternet.org/ story/ 14-4538.
+ http://www.alternet.org/story/14-4538.
 <li>Ibid.
 <li>See Nicholas Confessore, “New York Finds Extreme Crisis in Youth Prisons," The New York
  Times (December 14, 2009), p. A1; Duff Wilson, “Poor Children Likelier to Get
  Antipsychotics," The New York Times (December 12, 2009), p. A1; and Amy Goodman, “jailing
- Kids for Cash,” Truthout (February 17, 2009), http://wvvw.truthout.org/021909].
+ Kids for Cash,” Truthout (February 17, 2009), http://www.truthout.org/021909].
 <li>Jake Tapper, “Political Punch: Power, Pop, and Probings from ABC News Senior Wlmite House
  Correspondent-Duncan: Katrina Was the ‘Best Thing’ for New Orleans School System,”/1BC
  News.com (January 29, 2010), http://blogs.abcnews.com/politicalpunch/2010/01/duncan-kat­
  rina-was-the-best-thing-for-new-orleans-schools.html.</li>
-<li>Nathaniel Caryg “GOP Hopeful: People on Public Assistance ‘Like Stray Animals,” Truthout
- (January 23, 2010), http://wwwtruthout.org/gop-hopeful-people-public-assistance-like-stray­
+<li>Nathaniel Caryg “GOP Hopeful: People on Public Assistance Like Stray Animals,” Truthout
+ (January 23, 2010), http://www.truthout.org/gop-hopeful-people-public-assistance-like-stray­
  anima1s56335.</li>
 <li>Cited in Frank Rich, “The State of Union Is Comatose," The New York Times (January 31, 2010),
  p. WK10.</li>
 <li>See, for example, Patrick Buchanan, “Traditional Americans Are Losing Their Nation,
- WorldNetDaily(January 24, 2010), http://wwwwnd.com/index.php?pageId=113463.</li>
+ WorldNetDaily(January 24, 2010), http://wwww.com/index.php?pageId=113463.</li>
 <li>Frank Rich, “The Rage ls Not About Health Care," The New York Times (March 28, 2010), p.
  WK10.</li>
 <li>Chris Hedges, “Is America ‘Yearning for Fascism'?," TruthDig (March 29, 2010),
- http://wwvmtruthdig.com/report/item#s_america_yearning_for_fascism_20100329/.</li>
+ http://www.truthdig.com/report/item#s_america_yearning_for_fascism_20100329/.</li>
 <li>Rich, “The State of the Union Is Comatose," p. WK10.</li>
 <li>Robert Reich, “Our Incredible Shrinking Democracy,” AlterNet (February 2, 2010),
- http://wwv\Laltemet.org/story/145512/_</li>
+ http://www.Laltemet.org/story/145512/_</li>
 <li>Ibid.</li>
 <li>Wolin, Democracy Incorporated, pp. 259-260.</li>
 <li>Heather Maher, “Majority of Americans Think Torture ‘Sometimes'Justi1ied,” Common Dream.:
- (December 4, 2009), http://wwwcommondreams.org/headline/2009/12/04-0.</li>
+ (December 4, 2009), http://www.commondreams.org/headline/2009/12/04-0.</li>
 <li>See, for example, Kevin Passmore, Fascism (London: Oxford University Press, 2002); and
- Robert O. Paxton, The/Ynatomy ofFascirm (New York: Knopf, 2004).</li>
-<li>Alexander Stille, “The Latest Obscenity Has Seven Letters,” The New York Time: (September13,
+ Robert O. Paxton, The Anatomy of Fascism (New York: Knopf, 2004).</li>
+<li>Alexander Stille, “The Latest Obscenity Has Seven Letters,” The New York Time: (September 13,
  2003), p. 19.</li>
 <li>Judith Butler, “Uncritical Exuberance?" IndyBay.org (November 5, 2008), http://www.
- indybayorg/newsitems/2008/11/05/18549195.php.</li>
+ indybay.org/newsitems/2008/11/05/18549195.php.</li>
 <li>For an excellent analysis of the current status of the Patriot Act, see William Fisher, “Patriot
- Act-Eight Years Later,” Truthou! (February 3, 2010), http://wwvmtruthout.org/patriot-act­
+ Act-Eight Years Later,” Truthou! (February 3, 2010), http://www.truthout.org/patriot-act­
  eight-years-later56600.</li>
 <li>Glenn Greenwald has taken up many of these issues in a critical and thoughtful fashion. See
- his blog at Salon: http://wwwsalon.com/news/opinion/glenn_greenwa.lc1/.</li>
+ his blog at Salon: http://www.salon.com/news/opinion/glenn_greenwalc1/.</li>
 <li>Noam Chomsky; “Anti-Democratic Nature of US Capitalism Is Being Exposed," The Irish Time:
 (October 10, 2008), www.commondreams.org/view/2008/10/10-4.</li>
 <li>Roger D. Hodge, “The Mendacity of Hope,” Harper? Magazine (February 2010), pp. 7-8.</li>
 <li>Chris Hedges, “Democracy in America Is a Useliil Fiction," TruthDig (January 24, 2010),
-http://wwvsntruthdig.oom/report/item/democracy_in_arnerica_is_a_useh1l_fiction_20100124/Pln</li>
+http://www.truthdig.oom/report/item/democracy_in_arnerica_is_a_usefull_fiction_20100124/Pln</li>
 <li>Naomi Klein, “How Corporate Branding Has Taken over America,” The Guardian/UK (January
 16, 2010), http://www.guardian.co.ukfbooks/2010/jan/16/naomi-klein-branding-obama­-america.</li>
 <li>Wolin, Democracy Incorporated, p. 259.</li>
@@ -1438,136 +1438,130 @@ Bauman’s analysis of how market sovereignty differs from tradition­al modes o
 sovereignty is worth citing in full.</p>
 
 <blockquote>
-This strange sovereign [the market] has neither legislative nor executive agencies, not to men­
-tion courts of law-which are rightly viewed as the indispensable paraphernalia ofthe bona
-fide sovereigns explored and described in political science textbooks. ln consequence, the mar­
-ket is, so to speak, more sovereign than the much advertised and eagerly self-advertising polit­
-ical sovereigns, since in addition to returning the verdicts of exclusion, the market allows for
-no appeals procedure. Its sentences are as firm and irrevocable as they are informal, tacit, and
-seldom if ever spelled out in writing. Exemption by the organs of a sovereign state can be
-objected to and protested against, and so stands a chance of being annulled-but not evic­
-tion by the sovereign market, because no presiding judge is named here, no receptionist is
-in sight to accept appeal papers, while no address has been given to which they could be
-mailed.21
+This strange sovereign [the market] has neither legislative nor executive agencies, not to 
+men­tion courts of law-which are rightly viewed as the indispensable paraphernalia ofthe bonafide 
+sovereigns explored and described in political science textbooks. ln consequence, the mar­ket is, 
+so to speak, more sovereign than the much advertised and eagerly self-advertising polit­ical 
+sovereigns, since in addition to returning the verdicts of exclusion, the market allows for no 
+appeals procedure. Its sentences are as firm and irrevocable as they are informal, tacit, and 
+seldom if ever spelled out in writing. Exemption by the organs of a sovereign state can be 
+objected to and protested against, and so stands a chance of being annulled-but not evic­tion by 
+the sovereign market, because no presiding judge is named here, no receptionist is in sight to 
+accept appeal papers, while no address has been given to which they could be mailed.21
 </blockquote>
 
-<p>Traditional modes of liberal politics recognized democracy’s dependency on the
-people it governed and to whom it remained accountable. But no one today votes
-for which corporations have the right to dominate the media and filter the infor­
-mation made available to the public; there is no electoral process that determines
-how private companies grant or deny people access to adequate health care and other
-social services. The reign ofthe market shapes conditions of life and death in a zom­
-bie economy. It is not restricted to a limited term of appointment, despite the mar­
-ket’s unprecedented sovereignty over the lives of citizens in democratic
-countries-sovereignty essentially defined as the “power and capacity to dictate who
-may live and who may die.”22 This shift to market sovereignty, values, and power
+<p>Traditional modes of liberal politics recognized democracy’s dependency on the people it 
+governed and to whom it remained accountable. But no one today votes for which corporations 
+have the right to dominate the media and filter the infor­mation made available to the public; 
+there is no electoral process that determines how private companies grant or deny people 
+access to adequate health care and other social services. The reign ofthe market shapes 
+conditions of life and death in a zom­bie economy. It is not restricted to a limited term of 
+appointment, despite the mar­ket’s unprecedented sovereignty over the lives of citizens in 
+democratic countries-sovereignty essentially defined as the “power and capacity to dictate 
+who may live and who may die.”22 This shift to market sovereignty, values, and power
 points to the importance of zombie politics as an attempt to think through not only
 how politics uses power to mediate the convergence of life and death, but also how
 sovereign power proliferates those conditions in which individuals marginalized by
 race, class, and gender configurations are “stripped of political significance and
 exposed to murderous violence.”23</p>
 
-<p>Under such circumstances, it is more crucial than ever to develop a politics of
-resistance that echoes Theodor Adomo’s argument that “the undiminished presence
-of suffering, fear, and menace necessitates that the thought that cannot be realized
-should not be discarded _ . . [that individuals and citizens] must come to know, with­
-out any mitigation, why the world-which could be paradise here and now-can
-become hell itselftomorrow.”24 IfAdorno is right, and I think he is, the task ahead
-is to fashion a more critical and redemptive notion of politics, one that takes seri­
-ously the emergence of a form of social death that is becoming the nonn rather than
-the exception for many Americans and at the same time refuses to accept, even in
-its damaged forms, an apocalyptic zombie politics and its accompanying culture of
-fear, its endless spectacles of violence that promote airtight forms of domination.
-We need new political and educational narratives about what is possible in terms
-of producing a different filture, especially for young people, what it means to pro­
-mote new modes of social responsibility, and what it takes to create sites and strate­
-gies in which resistance to zombie politics becomes possible. Starting with how we
-might fight for real economic, institutional, and structural reforms in the interest
-of children is not without merit for envisioning the broader reforms necessary in an
-aspiring democracy.</p>
+<p>Under such circumstances, it is more crucial than ever to develop a politics of resistance that 
+echoes Theodor Adomo’s argument that “the undiminished presence of suffering, fear, and menace 
+necessitates that the thought that cannot be realized should not be discarded _ . . [that 
+individuals and citizens] must come to know, with­ out any mitigation, why the world-which could 
+be paradise here and now-can become hell itselftomorrow.”24 IfAdorno is right, and I think he is, 
+the task ahead is to fashion a more critical and redemptive notion of politics, one that takes 
+seri­ously the emergence of a form of social death that is becoming the nonn rather than the 
+exception for many Americans and at the same time refuses to accept, even in its damaged forms, 
+an apocalyptic zombie politics and its accompanying culture of fear, its endless spectacles of 
+violence that promote airtight forms of domination. We need new political and educational 
+narratives about what is possible in terms of producing a different filture, especially for 
+young people, what it means to pro­mote new modes of social responsibility, and what it takes to 
+create sites and strategies in which resistance to zombie politics becomes possible. Starting 
+with how we might fight for real economic, institutional, and structural reforms in the interest 
+of children is not without merit for envisioning the broader reforms necessary in an aspiring 
+democracy.</p>
 
-<p>At the very least, this suggests fighting for a child welfare system that would
-reduce “family poverty by increasing the minimum wage,” institute “a guaranteed
-income, provide high-quality subsidized child care, preschool education, and paid
-parental leaves for all families.”25 Young people need a federally fimded jobs cre­
-ation program and wage subsidy that would provide year-round employment for
-out-of-school youth and summer jobs that target in-school, low-income youth.
-Public and higher education, increasingly defined by corporate and military agen­
-das, must be reclaimed as democratic public spheres that educate young people about
-how to govern rather than merely be governed. Incarceration should be the last
-resort, not the first recourse for dealing with our children. We need to get the police
-out of public schools, greatly reduce spending for prisons, and hire more teachers,
-support staff; and community people in order to eliminate the school-to-prison
-pipeline. In order to make life livable for young people and others, basic supports
-must be put in place, such as a system of national health insurance that covers every­
-body, along with affordable housing. At the very least, we need guaranteed health
-care for young people, and we need to lower the age of eligibility for Medicare to
-S5 in order to keep poor families from going bankrupt. And, of course, none of this
-will take place unless the institutions, power relations, and values that legitimate and
-reproduce current levels of inequality, power, and human suffering are dismantled.
-The widening gap between the rich and the poor has to be addressed if young peo­
-ple are to have a viable future. Ensuring this future for our children will require per­
-vasive structural reforms that constitute a real shift in both power and politics
-away from a market-driven system that views too many young people and other vul­
-nerable populations as disposable. Against a zombie politics and a predatory capi­
-talism, we need to reimagine what liberty, equality, and freedom might mean as truly
-democratic values and practices.</p>
+<p>At the very least, this suggests fighting for a child welfare system that would reduce “family 
+poverty by increasing the minimum wage,” institute “a guaranteed income, provide high-quality 
+subsidized child care, preschool education, and paid parental leaves for all families.”25 Young 
+people need a federally fimded jobs cre­ation program and wage subsidy that would provide year-
+round employment for out-of-school youth and summer jobs that target in-school, low-income youth.
+Public and higher education, increasingly defined by corporate and military agen­das, must be 
+reclaimed as democratic public spheres that educate young people about how to govern rather 
+than merely be governed. Incarceration should be the last resort, not the first recourse for 
+dealing with our children. We need to get the police out of public schools, greatly reduce 
+spending for prisons, and hire more teachers, support staff; and community people in order to 
+eliminate the school-to-prison pipeline. In order to make life livable for young people and 
+others, basic supports must be put in place, such as a system of national health insurance that 
+covers every­ body, along with affordable housing. At the very least, we need guaranteed health
+care for young people, and we need to lower the age of eligibility for Medicare to 65 in order 
+to keep poor families from going bankrupt.</p>
+
+<p>And, of course, none of this will take place unless the institutions, power relations, and values 
+that legitimate and reproduce current levels of inequality, power, and human suffering are 
+dismantled. The widening gap between the rich and the poor has to be addressed if young people­
+are to have a viable future. Ensuring this future for our children will require per­vasive 
+structural reforms that constitute a real shift in both power and politics away from a 
+market-driven system that views too many young people and other vul­nerable populations as 
+disposable. Against a zombie politics and a predatory capi­talism, we need to reimagine what 
+liberty, equality, and freedom might mean as truly democratic values and practices.</p>
 
 <h2>Notes</h2>
 <ol>
 <li>Jane Anna Gordon and Lewis R. Gordon, Of Divine Warning: Reading Disaster in the Modern 
- Age (Boulder, CO: Paradigm Publishers, 2009), p. 10.</li>
+  Age (Boulder, CO: Paradigm Publishers, 2009), p. 10.</li>
 <li>Matt Taibbi, “The Great American Bubble Machine," Rolling Stone (july 13, 2009), 
- http://www.rollingstone.com/politics/story/29127316/the_great_american_bubb|e_machine.</li>
+  http://www.rollingstone.com/politics/story/29127316/the_great_american_bubb|e_machine.</li>
 <li>Tony Judt, Il/ Fares the Land (New York: Penguin Press, 2010), p. 12.</li>
 <li>The relationship between zombies and the politics of culture has been explored in David Sirota, 
- “Zombie Zeitgeist: Why Undead Corpses Are Dominating at the Box Oflice," AlterNet (October 8, 2009), 
- http://www.altemet.org/media/143179/zombie_zeitgeist:_why_undead_corpses_are_
- dominating _at_the_box_oH‘ice/. See also, Stephen jones, ed., The Dead That Walk (Berkeley,
- CA: Ulysses Press, 2010).</li>
+  “Zombie Zeitgeist: Why Undead Corpses Are Dominating at the Box Oflice," AlterNet (October 8, 2009), 
+  http://www.alternet.org/media/143179/zombie_zeitgeist:_why_undead_corpses_are_
+  dominating _at_the_box_office/. See also, Stephen jones, ed., The Dead That Walk (Berkeley,
+  CA: Ulysses Press, 2010).</li>
 <li>On this issue, sec Christopher Robbins, Expelling Hope: The Assault on Youth and the Militarization 
- o/`Schooling (Albany: SUNY Press, 2008) and Ken Saltman, The Edison School' Corporate Schooling
- and the Assault on Public Education (New York: Routledge, 2005). Also see my Youth ina Suspect
- Society: Democracy or Disposahility? (New York: Palgrave Macmillan, 2009).</li>
+  of_Schooling (Albany: SUNY Press, 2008) and Ken Saltman, The Edison School Corporate Schooling
+  and the Assault on Public Education (New York: Routledge, 2005). Also see my Youth ina Suspect
+  Society: Democracy or Disposahility? (New York: Palgrave Macmillan, 2009).</li>
 <li>Cited in Maureen Dowd, “Virtuous Bankers? Really!?!," The New York Times (November 11, 
- 2009), p. A27.</li>
+  2009), p. A27.</li>
 <li>Ibid.</li>
 <li>Dan Harris, Suzanne Yeo, Christine Brouwer, and joel Siegel, “Marketing Has Eye on Kids' 
- Tastes for Food, 'Net,'" ABC News (November 1, 2009), http://abcnews.go.com/WN/
- w_ParentingResource/vigilant-parents-unaware-marketingtechniques-draw-teens­
- kids/story?id»~896925S.</li>
+  Tastes for Food, 'Net,'" ABC News (November 1, 2009), http://abcnews.go.com/WN/
+  w_ParentingResource/vigilant-parents-unaware-marketingtechniques-draw-teens­
+  kids/story?id»~896925S.</li>
 <li>Adam Liptak, “justices Weigh Life in Prison for Youths Who Never Killed," The New York Times
- (November 8, 2009), p. Al. For an excellent analysis of this issue that focuses on one particu­larly 
- tragic case, see Tolu Olorunda, “Sarah Kruzan: 16-Year-Old Sentenced to Life for Killing Pimp,” 
- The Dain: Wice (October 26, 2009), http://thedai1yvoice.com/voice/2009/10/sarah-k.ruzan-16yearold-sentenc-002362.php.</li>
+  (November 8, 2009), p. Al. For an excellent analysis of this issue that focuses on one particu­larly 
+  tragic case, see Tolu Olorunda, “Sarah Kruzan: 16-Year-Old Sentenced to Life for Killing Pimp,” 
+  The Dain: Wice (October 26, 2009), http://thedai1yvoice.com/voice/2009/10/sarah-k.ruzan-16yearold-sentenc-002362.php.</li>
 <li>Joshua Holland, "10 of the Nuttiest Statements Elected Officials Have Made in the Health Care
- Battle," AlterNet (November 7, 2009), http://www.altemet.org/ politics/ 143790/ 1 0__of_the_nut­ties_
- statements_elected_oHicials_have_ made_in_the_hea1th_care_battle/.</li>
+  Battle," AlterNet (November 7, 2009), http://www.alternet.org/politics/143790/10__of_the_nut­ties_
+  statements_elected_oHicials_have_ made_in_the_hea1th_care_battle/.</li>
 <li>Ibid.</li>
 <li>Tony judt, Ill Fares the Land (New York: Penguin Press, 2010), p. 160.</li>
 <li>Mike Davis and Daniel Bertrand Monk, eds.,“Introduction,” Em? Paradises (New York: The New
- Press, 2007), p. ix.</li>
+  Press, 2007), p. ix.</li>
 <li>See Associated Press, “A First: 1 in 100 Americans jailed," MSNBC.com (February 28, 2008),
- http://www.msnbc.msn.com/id/23392251/print/1/displaymode/1098/.</li>
+  http://www.msnbc.msn.com/id/23392251/print/1/displaymode/1098/.</li>
 <li>David l-larvey,A Brief History o/`Neolibemlisrn (New York: Oxford University Press, 2005), p. 7.</li>
 <li>Ibid., p. 161.</li>
 <li>Zygmunt Bauman, Liquid Times: Living in an Age of Uncertainty (London: Polity Press, 2007),
- p. 28.</li>
+  p. 28.</li>
 <li>Thom Hartmann, “You Can't Govem if You Don’t Believe in Govemment," CommonDreams.Org
- (September 6, 2005), http://www.commondreams.org/vi¢ws05/0906-21.htm.</li>
+  (September 6, 2005), http://www.commondreams.org/views05/0906-21.htm.</li>
 <li>Loic Wacquant, Pumlsbing tbe Poor: Tbe Neolroeral Government o/`SocuzlInsecurity, (Durham, NC:
- Duke University Press, 2009), pp. 294-295</li>
+  Duke University Press, 2009), pp. 294-295</li>
 <li>Some ofthe best work on racist exclusion can be found in David Theo Goldberg, Racist Cu/ture
- (Malden, MA: Blackwell, 1993); and David Theo Goldberg, The Threat o/`Race.° Re/lecttbns on
- Racial Neoliberalism (Malden, MA: Blackwell, 2009).</li>
+  (Malden, MA: Blackwell, 1993); and David Theo Goldberg, The Threat o/`Race.° Re/lecttbns on
+  Racial Neoliberalism (Malden, MA: Blackwell, 2009).</li>
 <li>Zygmunt Bauman, Consuming LW (London: Polity Press, 2007), p. 65.</li>
 <li>Achille Mbembe, “Necropolitics," trans. Libby Meintjcs, Public Culture 15:1 (2003), pp. 11-12.</li>
 <li>Ewa Plonowska Ziarek, “Bare Life on Strike: Notes on the Biopolitics of Race and Gender,” Soutb
- Atlantic Quarterly 107:1 (Winter 2008), p. 90.</li>
+  Atlantic Quarterly 107:1 (Winter 2008), p. 90.</li>
 <li>Theodor W. Adomo, Critical Models: Interventions and Catc/rwords, trans. Henry W. Pickford
- (New York: Columbia University Press, 1998), p. 14.</li>
+  (New York: Columbia University Press, 1998), p. 14.</li>
 <li>Dorothy Roberts, Shattered Bonds: T/Je Color qfCbild Mlfare (New York: Basic Books, 2008), p.
- 268.</li>
+  268.</li>
 </ol>
 <!-- end of last section I, chapter I -->
 <!-- Chapter Two -->
@@ -1860,7 +1854,7 @@ ignorance, and widespread injustice.</p>
 <li>See Bob Herbert's courageous article, “The Scourge Persists," Tbe New York Times (September
  19, 2009), p. A17.</li>
 <li>Susan _l. Douglas, “Killing Granny with thc Lazincss Bias," In Tbese Times (September 17, 2009),
- http://www.inthese times.com/main/article/4897/.</li>
+ http://www.inthesetimes.com/main/article/4897/.</li>
 <li>Mark Slouka, “A O_uibbIc,” Harper? Magazine (February 2009), p. 9.</li>
 <li>Herbert, “The Scourgc Pcrsists,” p. 17.</li>
 </ol>
@@ -2423,7 +2417,7 @@ Sperter of Inverted Totalitarianism (Princeton: Princeton University Press, 2008
  pAMTCq_gD99N03TGO.</li>
 <li>Limbaugh cited in Casey Cane-McCalla, “Top 10 Racist Limbaugh Ogotes," Ne'wsOne (October
 20, 2008), http://newsone.com/obama/top-10-racist-limbaugh-quotes/.</li>
-<li>Savage quoted in Thinkers and _/alters (july 2, 2007), http://thinl<ersandjokers.com/
+<li>Savage quoted in Thinkers and _/alters (july 2, 2007), http://thinkersandjokers.com/
 thinker.php?id=2688.</li>
 <li>Coulter quoted in Don Hazen, “The Tall Blonde Woman in the Short Skirt with the Big
 Mouth," AlterNet (june 6, 2006), www.a.ltemet.org/module/printversion/37162.</li>
@@ -2700,9 +2694,9 @@ over life.</p>
  Bnmswick, Nj: Transaction Books, 1987), p. 182.</li>
 <li>U.S. Census Bureau Press Release, "Income, Poverty and Health Insurance Coverage in the 
  United States: 2008," U.S. Department of Commerce, Washington, DC (September 10, 2009), 
- http://wwvmcensus.gov/Press- Release/www/releases/archives/income__wealth/014227.htmI; Paul 
+ http://www.census.gov/PressRelease/www/releases/archives/income__wealth/014227.htmI; Paul 
  Klayman, “Harvard Study: 45,000 People Die Every Year," Institute for Southern Studies 
- (September 18, 2009), http1//www.southernstudiesorg/2009/09/uninsured-die-every-year.hml1.</li>
+ (September 18, 2009), http://www.southernstudies.org/2009/09/uninsured-die-every-year.hml1.</li>
 <li>Editorial, “Lack of Health Care Led to 17,000 US Child Deaths," Agence France-Presse (October 
  29, 2009), www.truth.0rg/1030099?print.</li>
 <li>Wendy Brown, Edgework: Critical Essays on Knowledge and Politics (Princeton: Princeton 
@@ -2986,29 +2980,29 @@ claimed to be.</p>
  Reporting</i> (November/December 2001), http://www.Fair.org/index.php?page=1084.</li>
 <li>Ibid.</li>
 <li>Michael Haas, “Children, Unlamented Victims of Bush War Crimes,” <i>FactPlatform</i> (May 4,
- 2009), http://www.factjo.com/Manbar_En/MemberDetails.aspx?ld=187; and Michael Haas,
+  2009), http://www.factjo.com/Manbar_En/MemberDetails.aspx?ld=187; and Michael Haas,
 <i>George W Bush, War Criminal?: The Bush Administration's Liability for 269 War Crimes</i> (Westport, 
- CT: Praeger Publishers, 2009).</li>
+  CT: Praeger Publishers, 2009).</li>
 <li>Will Mathews, “Govemment Seeks to Continue Detaining Mohammed Jawad at Guantanamo
- Despite Lack of Evidence,” CommonDreams.Org (]uly 24, 2009), http://www.commondreams
- .org/pring/45088; and ACLU Petition for Writ of Habeas Corpus, “Amended Petition.”
+  Despite Lack of Evidence,” CommonDreams.Org (]uly 24, 2009), http://www.commondreams
+  .org/pring/45088; and ACLU Petition for Writ of Habeas Corpus, “Amended Petition.”
 <li>Cited in Andy Worthington, “The Case of Mohammed Jawad," <i>Counterpunch</i> (October 17,
- 2007), http://www.counterpunch.org/worthington1017200.html.</li>
+  2007), http://www.counterpunch.org/worthington1017200.html.</li>
 <li>William Glaberson, “Govemment Might Allow U.S. Trial for Detainee," <i>The New York Times</i>
- (July 25, 2009), p. A14.</li>
+  (July 25, 2009), p. A14.</li>
 <li>ACLU, “Mohammed Jawad-Habeas Corpus,” <i>Safe and Free</i> (January 13, 2009),
- http://www.aclu.org/safefree/detention/38714res20090113.html.</li>
+  http://www.aclu.org/safefree/detention/38714res20090113.html.</li>
 <li>8. ACLU Petition for Writ of Habeas Corpus, “Amended Petition for Writ of`Habeas Corpus on
- Behalf of Mohammed Jawad,” June 2009, http://www.aclu.org/pdfs/natsec/amended_jawad
- _2009113.pd£ “Amended Petition."</li>
+  Behalf of Mohammed Jawad,” June 2009, http://www.aclu.org/pdfs/natsec/amended_jawad
+  _2009113.pd£ “Amended Petition."</li>
 <li>Ibid.</li>
 <li>Ibid.</li>
 <li>Glenn Greenwald, “Mohammed Jawad and Obama’s Efforts to Suspend Military Commissions,"
- <i>Salon.com</i> (January 21, 2009), http://www.salon.com/opinion/greenwald/2009/01/21/
- Guantanamo/.</li>
+  <i>Salon.com</i> (January 21, 2009), http://www.salon.com/opinion/greenwald/2009/01/21/
+  Guantanamo/.</li>
 <li>Bob Herbert, “How Long ls Enough?", <i>The New York Times</i> (June 30, 2009), p. A21.</li>
 <li>Colonel Vandeveld’s sworn affidavit is included in the ACLU Petition for Writ of Habeas
- Corpus, “Amended Petition."</li>
+  Corpus, “Amended Petition."</li>
 <li>Ibid.</li>
 <li>Ibid.</li>
 <li>Amnesty International, <i>United States of America-From Ill-Treatment to Unfair Trial: The Case
@@ -3026,7 +3020,7 @@ claimed to be.</p>
 <li>Ibid.</li>
 <li>ACLU Petition for Writ of Habeas Corpus, “Amended Petition."</li>
 <li>Cited in Jason Leopold, “Obama Administration Cooks Up New Legal Argument for Detaining
- Guantanamo Prisoner,” <i>Truthout</i> (July 28, 2009), http://www.tmthout.org/072809.</li>
+ Guantanamo Prisoner,” <i>Truthout</i> (July 28, 2009), http://www.truthout.org/072809.</li>
 <li>Valtin, “So Ordered': U.S. to Release Mohammed Jawad After Six Years of False Imprisonment,”
  <i>Daiiy Kos</i> (July 30, 2009), http://www.dailykos.com/story/2009/7/30/18119/5521.</li>
 <li>William Glaberson, “Judge Orders Release of Young Detainee at Guantanamo," <i>The New York
@@ -3230,7 +3224,7 @@ an issue we can ignore too much longer.</p>
  Jacoby, <i>The Age of American Unreason</i> (New York: Vintage, 2009); Chris Hedges, <i>Empire of Illusion</i> 
  (Toronto: Knopf Canada, 2009).</li>
 <li>Chris Hedges, "Celebrity Culture and the Obama Brand," <i>Tikkun</i> (January/February 2010). 
- http://www.til<kun.org/article.php/jan10_hedges</li>
+ http://www.tilkun.org/article.php/jan10_hedges</li>
 <li>Jean Comaroff and John L. Comaroff "Millennial Capitalism: First Thoughts on a Second 
  Coming," <i>Public Culture</i> 12:2 (2000), pp. 305-306.</li>
 <li>Zygmunt Bauman, "Introduction," <i>Society under Siege</i> (Malden, MA: Blackwell, 2002), p. 170.</li>
@@ -4357,7 +4351,7 @@ contemporary adult society has proven itself willing to be for them.</p>
  Press, 2008).</li>
 <li>For an excellent analysis of this issue, see Chris Hedges, <i>Empire of Illusion: The End of Literacy 
  and the Triumph of Spectacle</i> (New York: Knopf Canada, 2009). See also George Monbiot, "The
- Triumph of Ignorance," <i>AlterNet</i> (October 31, 2008), http://www.altemet.org/story/ 105 447/the_
+ Triumph of Ignorance," <i>AlterNet</i> (October 31, 2008), http://www.alternet.org/story/ 105 447/the_
  triumph_of_ignorance:_how_morons_succeed_in_u.s._politics/. For an extensive study of anti­-
  intellectualism in America, see Richard Hoftstadter, <i>Anti-Intellectualism in American Life (New
  York: Vantage House, 1963); and Susan Jacoby, <i>The Age of American Unreason</i> (New York:
@@ -4786,7 +4780,7 @@ of justice, vision, and hope for the future.20</p>
 <li>For a superb analysis of urban marginality of youth in the United States and France, see Loic 
  Wacquant, Urhan Outcartx (London: Polityg 2008).</li>
 <li>Children’s Defense Fund, America? Cradle to Prison Pipeline (Washington, DC: Children’s 
- Defense Fund, 2007), http://wwv»:childrensdefense.org/child-research-data-publications/data 
+ Defense Fund, 2007), http://www.childrensdefense.org/child-research-data-publications/data 
  /cradle-prison-pipeline-report-2007-full-highres.htm1., p. 77.</li>
 <li>There are a growing number of groups fighting the growing school-to-prison pipeline, includ­ing 
  the crucial work being done by the Children’s Defense Fund under the leadership of Marian 
@@ -5762,7 +5756,7 @@ CounterPunch 17:2 (January 16-31, 2010), p. 1.</li>
 MA: Polity Press, 2005) pp. 1-124.</li>
 <li>Hannah Arendt, Between Past and Future (New York: Penguin Books, 1977), p. 72.
 <li>Paul ]oseph Watson, “Surveillance Drones to Zap protesters into Submission,” Prison Planet
-(February 12, 2010), http://wwvmprisonplanet.oom/surveillance-drones-to-zap-protesters -into­
+(February 12, 2010), http://www.imprisonplanet.oom/surveillance-drones-to-zap-protesters -into­
 submission.htrnL For an excellent source on how the robotic revolution is being used to trans­
 form the nature of war, see RW. Singer, Wired for Uhr: Tbe Robotic Revolution and Conflict in
 tbe 21” Century (New York: Penguin Press, 2009).</li>
@@ -5775,7 +5769,7 @@ Button' in Your Brain," TrutbOut (January 10, 2010),
 https://truthout.org/articles/advertisers-and-politicians-hunt-for-the-buybutton-in-your-brain/
 http://www.truthout.org/spel1casters-ti1e­hunt-buy-button-your-brain56278?print.</li>
 <li>Goran Therborn, “The Killing Fields of Inequality,” Open Democracy (April 6, 2009),
-http://wwvmopendemocracynet/article/the-killing-fields-of-inequality</li>
+http://www.opendemocracynet/article/the-killing-fields-of-inequality</li>
 <li>Hannah Arendt, “No Longer and Not Yet," in Rg‘Iection.f on Litemture and Culture, ed. Susannah
 Yong-ah Gottlieb (Stanford: Stanford University Press, 2007), p. 121.</li>
 </ol>
