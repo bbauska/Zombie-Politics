@@ -1,4 +1,4 @@
-<!-- Zombie Politics -->
+<!-- readme.md of Zombie Politics -->
 🧟
 <h6>Zombie Politics</h6>
 <h6>Brian Bauska (2025)</h6>
