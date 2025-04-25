@@ -193,9 +193,9 @@ sup {
 }
 
 /** iframe for videos **/
-#idname{ 
- Display: flex; 
-Justify-content: Center; 
+#centerit { 
+  display: flex; 
+  justify-content: Center; 
 } 
 <!--
 .iframe-container{
