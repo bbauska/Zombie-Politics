@@ -193,6 +193,11 @@ sup {
 }
 
 /** iframe for videos **/
+#idname{ 
+ Display: flex; 
+Justify-content: Center; 
+} 
+<!--
 .iframe-container{
   position: relative;
   width: 100%;
@@ -206,7 +211,7 @@ sup {
   width: 100%;
   height: 100%;
 }
-
+-->
 /*** MEDIA QUERIES ends approx line 328 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
