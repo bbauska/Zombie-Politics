@@ -129,7 +129,6 @@ body {
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
-
 .open-book article > ul,
 .open-book article > ol {
   padding-left: 3em;  /* 3em; */
@@ -193,33 +192,13 @@ sup {
 }
 
 /** iframe for videos **/
-.yt{
-  text-align: center;
+iframe {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-iframe{
-  display: inline-block;
-}
-#centerit { 
-  display: flex; 
-  justify-content: center; 
-   display: flex;
- align-content: center;
-} 
-<!--
-.iframe-container{
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%; 
-  height: 0;
-}
-.iframe-container iframe{
-  position: absolute;
-  top:0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
--->
+
 /*** MEDIA QUERIES ends approx line 328 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
