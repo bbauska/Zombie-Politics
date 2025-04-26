@@ -193,9 +193,17 @@ sup {
 }
 
 /** iframe for videos **/
+.yt{
+  text-align: center;
+}
+iframe{
+  display: inline-block;
+}
 #centerit { 
   display: flex; 
-  justify-content: Center; 
+  justify-content: center; 
+   display: flex;
+ align-content: center;
 } 
 <!--
 .iframe-container{
