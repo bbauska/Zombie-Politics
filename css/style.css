@@ -72,6 +72,9 @@ body {
 .open-book footer #page-numbers > li:last-child {
   text-align: right;
 }
+.open-book iframe {
+  text-align: center;
+}
 
 /* open-book Chapter Title */
 .open-book .chapter-title {
@@ -193,12 +196,6 @@ sup {
   line-height: 0;
   font-size: 70%;
   font-weight: 900;
-}
-footer {
-  text-align: center;
-  padding: 1px;
-  background-color: #abbaba;
-  color: #000;
 }
 
 /*** MEDIA QUERIES ends approx line 328 ***/
