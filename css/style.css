@@ -189,7 +189,12 @@ sup {
   font-size: 70%;
   font-weight: 900;
 }
-
+footer {
+  text-align: center;
+  padding: 5px;
+  background-color: #abbaba;
+  color: #000;
+}
 /*** MEDIA QUERIES ends approx line 328 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
