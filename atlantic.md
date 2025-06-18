@@ -29,7 +29,7 @@ in the Oval Office, though possibly the Lincoln Bedroom. But then, as is so ofte
 case with this White House, everything went sideways.
 
 <h1>My Super-Special 79th Was Not Super Special<h1>
-<h6><small>A diary entry by a disappointed president</small</h6>
+<h6><small>A diary entry by a disappointed president</small></h6>
 
 <p>Dear Diary, 2025</p>
 
