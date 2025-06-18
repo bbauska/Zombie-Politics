@@ -31,26 +31,27 @@ case with this White House, everything went sideways.
 <h1>My Super-Special 79th Was Not Super Special<h1>
 <h6><small>A diary entry by a disappointed president</small</h6>
 
-Dear Diary,2025
+<p>Dear Diary, 2025</p>
 
-I did NOT have the birthday of my dreams last weekend! Everyone knows that 79 is the tank 
+<p>I did NOT have the birthday of my dreams last weekend! Everyone knows that 79 is the tank 
 birthday. One is paper, 77 is emoluments, 78 you get to destroy one constitutional 
 amendment of your choosing, 80 you get to become the state, but 79 is tanks, and I was 
-so looking forward to my tank birthday.
+so looking forward to my tank birthday.</p>
 
-I thought it was pretty clear what I wanted. But obviously, it wasn’t!!! This was like 
+<p>I thought it was pretty clear what I wanted. But obviously, it wasn’t!!! This was like 
 the kind of tank parade your mom makes you lovingly from scratch, and I wanted the kind 
 of tank parade that is made in China or North Korea. I don’t want a special American 
 tank parade where our soldiers are waving and smiling out of the tanks. I want one like 
-my friends have.
+my friends have.</p>
 
-I wanted tanks, but I got OLD tanks. I wanted marching, but I got the wrong kind of 
+<p>I wanted tanks, but I got OLD tanks. I wanted marching, but I got the wrong kind of 
 marching, where they didn’t even do the little high-kick thing. I wanted millions of 
 people to come out and cheer and hold up pictures of my face and they did, but they all 
-went to the wrong places.
+went to the wrong places.</p>
 
-What does a president have to do to get the right kind of birthday tank parade? I have 
+<p>What does a president have to do to get the right kind of birthday tank parade? I have 
 been dispatching troops to American cities and Stephen Miller is openly speculating about 
 rolling back habeas corpus; it is not even subtle at this point what kind of government 
-I’m going for!
+I’m going for!</p>
+
 
