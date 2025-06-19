@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #1d1f20;  /* very dark blue */
+  background-color: #1d1f20;  /* very dark (mostly black) blue */
   color: #e5e5e5;  /* very light gray */
   font: 14px/1.25 'Crimson Text', sans-serif;
   margin: 0;
@@ -139,7 +139,7 @@ body {
 }
 .open-book article > ul,
 .open-book article > ol {
-  padding-left: 3em;  /* 3em; */
+  padding-left: 3em;
 }
 .open-book article > ul ul {
   padding-left: 1em;
@@ -179,7 +179,7 @@ body {
   margin: 1em 0;
 }
 .open-book dl {
-  border: solid 0 #ccc;
+  border: solid 0 #ccc;  /* light gray */
   border-width: 0.0625em 0;
   break-inside: avoid-column;
   margin: 1em auto;
@@ -238,7 +238,7 @@ sup {
   .open-book header:after,
   .open-book footer:before,
   .open-book footer:after {
-    background: #fff;
+    background: #fff;  /* white */
     border-radius: 25%;
     content: '';
     height: 2em;
@@ -301,7 +301,7 @@ sup {
   .open-book footer #page-numbers {
     display: block;
   }
-  
+
   /* open-book Chapter Title */
   .open-book .chapter-title {
     font-size: 2em;  /* 3em; */
@@ -310,7 +310,6 @@ sup {
   .open-book .chapter-title:after {
     height: 0.125em;
   }
-  
   /* open-book Body Copy */
   .open-book article p {
     text-indent: 2em;  /* 3em; */
