@@ -29,9 +29,9 @@ body {
 
 /*** OPEN BOOK ***/
 .open-book {
-  background: #fff;  /* white */
+  background: fff;  /* white */
   box-shadow: rgba(0,0,0,0.5) 0 1em 3em;
-  color: #000;  /* black */
+  color: 000;  /* black */
   padding: 2em;
 }
 .open-book * {
@@ -205,7 +205,7 @@ sup {
     position: relative;
   }
   .open-book:before {
-    background-color: #8b4513;  /* dark orange */
+    background-color: #006700;  /* very dark lime green, was #8b4513 = dark orange */
     border-radius: 0.25em;
     bottom: -1em;
     content: '';
