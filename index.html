@@ -78,6 +78,31 @@
 </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <body>
+<body>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <button onclick="overcomeFunction()" id="myBtn" title="Go to btm">Top</button>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ script function: scrollFunction() ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <script>
+    <!-- get the button -->
+    var mybutton = document.getElementById("myBtn");
+
+    <!-- <i>when the user scrolls down 10px from the top of the document, show the "Top" button</i> -->
+    window.onscroll = function() {scrollFunction()};
+    function scrollFunction() {
+      if (document.body.scrollTop > 10 || document.documentElement.scrollTop > 10) {
+        mybutton.style.display = "block";
+      } else {
+        mybutton.style.display = "none";
+      }
+    }
+
+  // <i>when the user clicks on the button, scroll to the table of contents near top of document.</i>
+  function overcomeFunction() {
+    document.getElementById('how-to-overcome').scrollIntoView();
+  }
+
+  </script>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   <div id="wrapper">
     <div id="container">
@@ -90,7 +115,7 @@
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <!-- Chapter 1 -->
         <article>
-          <h2 class="chapter-title">The Rise of Zombie Politics, Democracy 
+          <h2 id="table-of-contents" class="chapter-title">The Rise of Zombie Politics, Democracy 
             and Threat of Authoritarianism (cadaver animatum)</h2>
           <p>According to the current press secretary, Feb, 2025 "Trump is playing four dimensional 
             chess, while you are all playing checkers." Quite a statement. I can hear the lip-lock 
@@ -6369,7 +6394,7 @@
         </ol>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <!-- Additional article; How to overcome dire political fascism -->
-        <h2 class="chapter-title">How to<br>
+        <h2 id="how-to-overcome" class="chapter-title">How to<br>
           Overcome<br>
           Dire<br>
           Political Fascism?</h2>
