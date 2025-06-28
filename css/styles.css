@@ -1,4 +1,4 @@
-<!-- style.css of Zombie-Politics; zommbie.bauska.org -->
+<!-- css/styles.css of github bbauska/Zombie-Politics making https://zombie.bauska.org -->
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
 
 *,
@@ -126,20 +126,19 @@ body {
   text-transform: uppercase;
 }
 
-<!-- added 3/25/2025 -->
-.open-book .chapter-title article + p:first-of-type {
-  text-indent: 0;
-}
-<!-- added 3/25/2025 -->
+<!-- added 6/28/2025 -->
+<!--  .open-book .chapter-title article + p:first-of-type {  -->
+<!--    text-indent: 0;  -->
+<!--  }  -->
 .open-book .chapter-title article + p:first-of-type:first-letter {
   float: left;
-  font: 700 3em/0.65 'Playfair Display', sans-serif;
+  font: 700 3em/.65 'PLayfair Display', sans-serif;
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
 .open-book article > ul,
 .open-book article > ol {
-  padding-left: 3em;  /* 3em; */
+  padding-left: 3em;
 }
 .open-book article > ul ul {
   padding-left: 1em;
@@ -235,7 +234,7 @@ sup {
   background-color: #555;  /* very dark gray */
 }
 
-/*** MEDIA QUERIES ends approx line 328 ***/
+/*** MEDIA QUERIES ends at end of document, approx line 359 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
     margin: 1em;
