@@ -245,13 +245,6 @@ sup {
   background-color: #555;  /* very dark gray */
 }
 
-#tallFirstLetter {
-  float: left;
-  font: 700 3em/0.65 'Playfair Display', sans-serif;
-  padding: 0.15em 0.05em 0 0;
-  text-transform: uppercase;
-}
-
 /*** MEDIA QUERIES ends at end of document, approx line 359 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
