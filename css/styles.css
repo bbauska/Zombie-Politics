@@ -125,12 +125,14 @@ p:first-line { line-height: 100%; }
 .open-book .chapter-title + p:first-of-type {
   text-indent: 0;
 }
+/*
 .open-book .chapter-title + p:first-of-type:first-letter {
   float: left;
   font: 700 3em/0.65 'Playfair Display', sans-serif;
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
+*/
 .open-book .chapter-title article + p:first-of-type:first-letter {
   float: left;
   font: 700 3em/.65 'PLayfair Display', sans-serif;
