@@ -1,5 +1,8 @@
 {
- "name": "App",
+  "name": "Zombie Politics",
+  "short_name": "Zombie Politics", 
+  "start_url": "zombie.bauska.org",
+  "display": "standalone",
  "icons": [
   {
    "src": "\/images/favicon/android-icon-36x36.png",
